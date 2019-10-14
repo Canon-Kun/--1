@@ -1,0 +1,31 @@
+﻿生成启动时间为 2019/9/23 18:07:13。
+     1>项目“C:\Users\天王李靖小锟锟\Documents\Visual Studio 2010\Projects\基于线性表实现\基于线性表实现\基于线性表实现.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“x64\Debug\基于线性表实现.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt "线性表实现.cpp"
+         线性表实现.cpp
+     1>c:\users\天王李靖小锟锟\documents\visual studio 2010\projects\基于线性表实现\基于线性表实现\list.h(104): warning C4715: “SqList<student>::GetElem”: 不是所有的控件路径都返回值
+     1>c:\users\天王李靖小锟锟\documents\visual studio 2010\projects\基于线性表实现\基于线性表实现\list.h(116): warning C4715: “SqList<student>::SetElem”: 不是所有的控件路径都返回值
+     1>c:\users\天王李靖小锟锟\documents\visual studio 2010\projects\基于线性表实现\基于线性表实现\list.h(134): warning C4715: “SqList<student>::DeleteElem”: 不是所有的控件路径都返回值
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\天王李靖小锟锟\Documents\Visual Studio 2010\Projects\基于线性表实现\x64\Debug\基于线性表实现.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\基于线性表实现.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\天王李靖小锟锟\Documents\Visual Studio 2010\Projects\基于线性表实现\x64\Debug\基于线性表实现.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\天王李靖小锟锟\Documents\Visual Studio 2010\Projects\基于线性表实现\x64\Debug\基于线性表实现.lib" /MACHINE:X64 "x64\Debug\基于线性表实现.exe.embed.manifest.res"
+         x64\Debug\mainStreen.obj
+         "x64\Debug\线性表实现.obj"
+         基于线性表实现.vcxproj -> C:\Users\天王李靖小锟锟\Documents\Visual Studio 2010\Projects\基于线性表实现\x64\Debug\基于线性表实现.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"x64\Debug\基于线性表实现.exe.embed.manifest" /manifest "x64\Debug\基于线性表实现.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         基于线性表实现.vcxproj -> C:\Users\天王李靖小锟锟\Documents\Visual Studio 2010\Projects\基于线性表实现\x64\Debug\基于线性表实现.exe
+       FinalizeBuildStatus:
+         正在删除文件“x64\Debug\基于线性表实现.unsuccessfulbuild”。
+         正在对“x64\Debug\基于线性表实现.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\天王李靖小锟锟\Documents\Visual Studio 2010\Projects\基于线性表实现\基于线性表实现\基于线性表实现.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.14
